@@ -1,3 +1,5 @@
+[![start-service](https://github.com/alexey-fmn/hexlet-ci-app/actions/workflows/start-service.yml/badge.svg)](https://github.com/alexey-fmn/hexlet-ci-app/actions/workflows/start-service.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
